@@ -18,9 +18,13 @@ TaskFlow is a simple, intuitive web app for managing your to-do tasks. It lets y
 Key Features
 
 Task Management: Add, edit, and delete tasks through an easy-to-use interface.
+
 LocalStorage: All tasks are stored in your browser, so your data persists even after you close the app.
+
 Team View: Organize and view tasks by team or collaborator for easy group project management.
+
 Dark Mode: Toggle between light and dark themes for a comfortable viewing experience in any lighting.
+
 
 Technology Stack
 React: Front-end library for building the user interface.
@@ -37,9 +41,13 @@ Navigate into the project directory:
 cd taskflow
 
 Install the dependencies:
+
 npm install
+
 Start the development server:
+
 npm run dev
+
 Open http://localhost:3000 in your browser to view the app.
 
 Deployment
@@ -48,6 +56,7 @@ TaskFlow can be easily deployed on Vercel. After pushing your code to a GitHub r
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 
 
