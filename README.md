@@ -35,6 +35,7 @@ git clone https://github.com/HetPatel2412/taskflow.git
 Navigate into the project directory:
 
 cd taskflow
+
 Install the dependencies:
 npm install
 Start the development server:
@@ -47,6 +48,7 @@ TaskFlow can be easily deployed on Vercel. After pushing your code to a GitHub r
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 
 
